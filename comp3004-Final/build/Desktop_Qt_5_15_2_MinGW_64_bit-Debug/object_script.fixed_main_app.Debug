@@ -1,0 +1,13 @@
+debug/main.o
+debug/mainwindow.o
+debug/simulation.o
+debug/insulinpump.o
+debug/dbmanager.o
+debug/homescreen.o
+debug/boluscalculator.o
+debug/screenmanager.o
+debug/moc_simulation.o
+debug/moc_mainwindow.o
+debug/moc_homescreen.o
+debug/moc_boluscalculator.o
+debug/moc_screenmanager.o
