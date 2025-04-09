@@ -1,0 +1,13 @@
+release/main.o
+release/mainwindow.o
+release/simulation.o
+release/insulinpump.o
+release/dbmanager.o
+release/homescreen.o
+release/boluscalculator.o
+release/screenmanager.o
+release/moc_simulation.o
+release/moc_mainwindow.o
+release/moc_homescreen.o
+release/moc_boluscalculator.o
+release/moc_screenmanager.o
