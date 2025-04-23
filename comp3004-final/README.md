@@ -1,5 +1,4 @@
-THIS IS NOT THE FINAL SUBMISSION.
-
+Final Submission.
 Team members:
 Abdullah Mahdi
 Molly Clark
